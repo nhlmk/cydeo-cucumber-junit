@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Wikipedia search functionality and verifications
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 63.347 s - in Wikipedia search functionality and verifications
