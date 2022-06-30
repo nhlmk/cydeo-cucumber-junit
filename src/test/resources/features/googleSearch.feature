@@ -8,7 +8,6 @@ Feature: Google search functionality
     Then user should see title is Google.
 
 
-
     Scenario: Search functionality result title verification
       Given user is on the Google search page.
       When user types apple and clicks enter

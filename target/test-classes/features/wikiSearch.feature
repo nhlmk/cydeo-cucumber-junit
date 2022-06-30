@@ -1,6 +1,6 @@
 Feature: Wikipedia search functionality and verifications
 
-  #WSF-45234
+  @WSF-45234
 
   Scenario: Wikipedia Search Functionality Title Verification
     Given User is on the Wikipedia home page
